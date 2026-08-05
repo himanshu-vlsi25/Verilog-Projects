@@ -13,7 +13,7 @@ Welcome to my Verilog HDL Projects Repository.
 |---------|--------|
 | AND Gate | ✅ Completed |
 | OR Gate |  ✅ Completed |
-| NOT Gate | ⏳ Coming Soon |
+| NOT Gate | ✅ Completed |
 | NAND Gate | ⏳ Coming Soon |
 | NOR Gate | ⏳ Coming Soon |
 | XOR Gate | ⏳ Coming Soon |
