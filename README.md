@@ -17,7 +17,7 @@ Welcome to my Verilog HDL Projects Repository.
 | NAND Gate |✅ Completed |
 | XOR Gate | ✅ Completed |
 | XNOR Gate | ✅ Completed |
-| 2:1 MUX | ⏳ Coming Soon |
+| 2:1 MUX | ✅ Completed |
 | Decoder | ⏳ Coming Soon |
 | Encoder | ⏳ Coming Soon |
 
