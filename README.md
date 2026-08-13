@@ -18,6 +18,7 @@ Welcome to my Verilog HDL Projects Repository.
 | XOR Gate | ✅ Completed |
 | XNOR Gate | ✅ Completed |
 | 2:1 MUX | ✅ Completed |
+| 4:1 mux | ✅ Completed|
 | Decoder | ⏳ Coming Soon |
 | Encoder | ⏳ Coming Soon |
 
